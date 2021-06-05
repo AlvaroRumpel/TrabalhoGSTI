@@ -1,3 +1,7 @@
+<h1 aling="center">
+  <img src="capaGit.png" alt="Logo" width="650px">
+</h1>
+
 # TrabalhoGSTI
 
 ## Descrição
