@@ -2,7 +2,7 @@
   <img src="capaGit.png" alt="Logo" width="650px">
 </h1>
 
-# TrabalhoGSTI
+<h1 align="center">Trabalho GSTI</h1>
 
 Tabela de conteúdos
 =================
